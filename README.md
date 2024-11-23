@@ -1,4 +1,4 @@
-# AdventureWorks Order & Product Dashboard
+# AdventureWorks Order & Product Analysis
 
 ## Project Overview
 This project is a dashboard for AdventureWorks, a fictional company, using data extracted from the AdventureWorks database. The dashboard visualizes key metrics and insights about the company's sales, products, and customer behavior over time.
