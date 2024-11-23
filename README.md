@@ -3,7 +3,14 @@
 ## Project Overview
 This project is a dashboard for AdventureWorks, a fictional company, using data extracted from the AdventureWorks database. The dashboard visualizes key metrics and insights about the company's sales, products, and customer behavior over time.
 
-Data was sourced from the AdventureWorks database by utilizing a pre-defined view. A Star Schema model was constructed for efficient data analysis and visualization. This schema consists of:
+Data was sourced from the AdventureWorks database. A Star Schema model was constructed for efficient data analysis and visualization. 
+![Screenshot 2024-11-23 194647](https://github.com/user-attachments/assets/0bd8cf15-6c39-4fbe-9d8b-c2a1d0c8e9fa)
+
+
+![Screenshot 2024-11-23 194602](https://github.com/user-attachments/assets/cd209427-f754-4a1a-b1f7-1b4e4318c8af)
+
+
+## This schema consists of:
 
 - **1 Fact Table**:
   - Orders Fact Table (contains order details and transactional data)
@@ -76,6 +83,5 @@ Below are screenshots of the dashboard showcasing key metrics and visualizations
 - Provide more granular insights into regional performance.
 - Add predictive analytics using machine learning.
 
-## License
-This project is licensed under the MIT License.
+
 
