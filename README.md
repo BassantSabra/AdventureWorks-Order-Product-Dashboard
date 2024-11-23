@@ -1,7 +1,7 @@
 # AdventureWorks Order & Product Analysis
 
 ## Project Overview
-This project is a dashboard for AdventureWorks, a fictional company, using data extracted from the AdventureWorks database. The dashboard visualizes key metrics and insights about the company's sales, products, and customer behavior over time.
+This project is a dashboard for AdventureWorks, a fictional company, using data extracted from the AdventureWorks database using SQL server. The dashboard visualizes key metrics and insights about the company's sales, products, and customer behavior over time.
 
 Data was sourced from the AdventureWorks database. A Star Schema model was constructed for efficient data analysis and visualization. 
 ![Screenshot 2024-11-23 194647](https://github.com/user-attachments/assets/0bd8cf15-6c39-4fbe-9d8b-c2a1d0c8e9fa)
