@@ -62,7 +62,7 @@ To reproduce or extend this dashboard, follow the steps below:
 4. **Visualization**: Utilize a BI tool (e.g., Power BI, Tableau) to recreate the visual components.
 
 ## Screenshots
-Below are screenshots of the dashboard showcasing key metrics and visualizations:
+Below are screenshots of the dashboard using Figma templet showcasing key metrics and visualizations:
 
 ### Order Analysis
 ![Screenshot 2024-11-23 192630](https://github.com/user-attachments/assets/d7fcd2e5-63ac-4fb0-b99a-ed1f6ccbbfb7)
